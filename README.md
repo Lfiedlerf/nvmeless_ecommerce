@@ -68,6 +68,19 @@ nvmeless-ecommerce/
         ├── polera-graphic.jpeg
         ├── poleron-oversize.jpeg
 
+## Versionamiento
+git init
+git add index.html productos.html assets/css/styles.css
+git commit -m "estructura base y estilos"
+git add producto-accesorio.html producto-botas.html producto-chaqueta.html producto-falda.html producto-mochila.html producto-polera.html producto-poleron.html
+git commit -m "Adhesión de páginas estáticas para cada producto"
+git add producto-polera.html producto-falda.html producto-chaqueta.html producto-botas.html producto-accesorio.html producto-mochila.html producto-poleron.html
+git commit -m "adhesión banner e imagenes catalogo"
+git add README.md
+git commit -m "documentación proyecto"
+git add README.md
+git commit -m "actualización del archivo README.md"
+
 ## 🚀 Cómo visualizar el proyecto
 Clona o descarga este repositorio.
 Asegúrate de tener conexión a internet (necesaria para cargar Bootstrap vía CDN).
